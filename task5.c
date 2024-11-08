@@ -17,6 +17,6 @@ void my_system(const char *command) {
 }
 
 int main() {
-    my_system("ls");
+    my_system("./task3");
     return 0;
 }
